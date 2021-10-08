@@ -1,0 +1,20 @@
+; map: test.map
+; map made with the map maker
+; yura.net Risk 1.0.9.2
+
+[files]
+pic test.png
+map test.gif
+crd test.cards
+
+[continents]
+aContinent 3 blue
+
+[countries]
+1 Territory_One 1 501 350
+2 Territory_Two 1 519 328
+
+[borders]
+1 2
+2 1
+
